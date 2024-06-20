@@ -1,0 +1,49 @@
+
+Software "salario x inflação"
+
+\...............Algoritmo Salario X inflação  2008 - 2024................../  
+
+==Condição - Fluxo do programa== 
+Peça para o usuário escolher uma opção de 1 a 3 
+
+--Escolha 1 Processamento dos dados salarial--
+
+1.Passo 
+Listar o salários mínimos de 2008 á 2024
+
+2.Passo 
+percorre Listas de salários mínimos
+
+3.Passo 
+Mostra lista de salários mínimos e o anos correspondentes 
+
+--Escolha 2 Processamento de índices de IPCA--
+
+1.Passo
+Listar o índice IPCA de 2008 á 2024
+
+2.Passo 
+percorre Listas de IPCA
+
+3.Passo 
+Mostra índice de IPCA na tela e o anos correspondentes
+
+--Escolha 3 Processamento de Crescimento salarial--
+
+1.Passo 
+Listar de salários mínimos e o índice de IPCA
+
+2.Passo 
+Percorre Salários mínimos e o índice de IPCA 
+
+3.Passo 
+Calcular percentual de salários mínimos
+
+4.Passo 
+Percorre Percentual de cada ano 
+
+5.Passo
+Mostre na tela Salários mínimos, índice de IPCA e o percentual de salários de cada ano na tela 
+
+--Escolha diferente de 1,2,3--
+Opção inválida
